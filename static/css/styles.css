@@ -177,7 +177,7 @@
   .card_img {
     width: 100%;
     height: 150px;
-    background-image: url(/static/pngtree-computer-png-image_1698842.jpg);
+    background-image: url(/static/img/pngtree-computer-png-image_1698842.jpg);
     background-size: cover;
   }
   
@@ -342,7 +342,7 @@
   .card__img {
     width: 100%;
     height: 150px;
-    background-image: url(../static/2-original.png);
+    background-image: url(../static/img/2-original.png);
     background-size: cover;
   }
   
